@@ -31,7 +31,7 @@ class Settings:
                                     "Host": "irc.chat.twitch.tv",
                                     "Port": 6667,
                                     "Channel": "#twitch.tv/thatdjtroy",
-                                    "Nickname": "Weather",
+                                    "Nickname": "ThatDJTroy",
                                     "Authentication": "oauth:u2dyac0m5a3ezhxpdfneozfmnfz0aa",
                                     "OWMKey": "2560f689281ba360eece8422cc023700"
                                 }
