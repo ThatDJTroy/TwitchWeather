@@ -30,9 +30,9 @@ class Settings:
                 standard_dict = {
                                     "Host": "irc.chat.twitch.tv",
                                     "Port": 6667,
-                                    "Channel": "#<channel>",
-                                    "Nickname": "<name>",
-                                    "Authentication": "oauth:<auth>",
+                                    "Channel": "#twitch.tv/thatdjtroy",
+                                    "Nickname": "Weather",
+                                    "Authentication": "oauth:oauth:u2dyac0m5a3ezhxpdfneozfmnfz0aa",
                                     "OWMKey": "<OpenWeatherMap api key>"
                                 }
                 f.write(json.dumps(standard_dict, indent=4, separators=(',', ': ')))
