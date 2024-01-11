@@ -33,7 +33,7 @@ class Settings:
                                     "Channel": "#twitch.tv/thatdjtroy",
                                     "Nickname": "Weather",
                                     "Authentication": "oauth:oauth:u2dyac0m5a3ezhxpdfneozfmnfz0aa",
-                                    "OWMKey": "<OpenWeatherMap api key>"
+                                    "OWMKey": "2560f689281ba360eece8422cc023700"
                                 }
                 f.write(json.dumps(standard_dict, indent=4, separators=(',', ': ')))
                 raise ValueError("Please fix your settings.txt file that was just generated.")
